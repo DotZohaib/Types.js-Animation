@@ -379,4 +379,4 @@ Thanks for checking this out. If you have any questions, I'll be on [Twitter](ht
 
 If you're using this, let me know! I'd love to see it.
 
-It would also be great if you mentioned me or my website somewhere. [www.mattboldt.com](http://www.CodeWithZohaib.com)
+It would also be great if you mentioned me or my website somewhere. [www.DotZohaib.com](http://www.CodeWithZohaib.com)
